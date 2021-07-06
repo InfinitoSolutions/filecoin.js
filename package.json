@@ -6,7 +6,6 @@
   "types": "builds/dist/index.d.ts",
   "jsnext:main": "builds/dist-esm/index.js",
   "module": "builds/dist-esm/index.js",
-  "browser": "builds/bundle/filecoin.js",
   "files": [
     "builds/",
     "LICENSE-APACHE",
