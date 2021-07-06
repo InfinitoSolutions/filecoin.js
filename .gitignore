@@ -3,8 +3,6 @@
 node_modules
 stats.json
 
-builds/dist
-builds/dist-esm
 builds/dist-tests
 builds/bundle
 builds/tests
